@@ -1,1 +1,114 @@
-
+body {
+  background-color: #FAEBD7;
+}
+header{
+  background-color: #906F70;
+}
+header a {
+  font-size: 30px;
+  color: white
+}
+main p {
+  font-size: 25px;
+  color: #6E4C3E;
+  text-align: center;
+}
+nav{
+  background-color: #906F70;
+  border: 2px solid black;
+  border-radius:20px;
+  text-align: center;
+  color: #9A7C6F;
+}
+nav a {
+  color: black;
+  padding: 10px;
+  margin: 10px;
+}
+h1 {
+  background-color: #6E4C3E;  
+  color: black;
+  text-align: center;
+}
+img {
+  border: 3px solid  black;
+}
+b {
+  font-size: 30px;
+  color: white;
+}
+a{
+  font-size: 25px;
+  color: green;
+  text-decoration:none;
+}
+h2 {
+  background-color: #6E4C3E;  
+  color: black;
+  text-align: center;
+}
+p img {
+  border: 3px solid  #9A7C6F;
+  border-radius:20px;
+}
+p {
+  font-size: 30px;
+  color: #906F70;
+}
+p i {
+  color: #9A7C6F;
+}
+img {
+  border: 3px solid  black;
+  border-radius:20px;
+}
+.ju {
+  color: #906F70;
+}
+.lu {
+  text-align: center;
+  border-radius:20px;
+}
+.ew {
+  text-align: left;
+  font-size: 20px;
+  color: black;
+}
+.rt {
+  text-align: left;
+  color: black;
+  font-size: 20px;
+}
+.sd {
+  color: black;
+}
+.df {
+  font-size: 40px;
+  background-color: #6E4C3E;
+  border: 2px solid black;
+  border-radius:20px;
+}
+.gh {
+  font-size: 50px;
+  color: #E9967A;
+  background-color: #6E4C3E;
+  border: 2px solid black;
+  border-radius:20px;
+}
+.jk {
+  color: #FF7F50;
+}
+.ml {
+  background-color: #6E4C3E;
+  border: 2px solid black;
+  border-radius:20px;
+}
+footer p {
+  background-color: #906F70;
+  color: black;
+  font-size: 25px;
+}
+.sa {
+  border: 2px solid black;
+  border-radius:20px;
+}
